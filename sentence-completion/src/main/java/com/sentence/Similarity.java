@@ -1,2 +1,6 @@
-package com.sentence;public class Similarity {
+package com.sentence;
+
+public class Similarity{
+
+
 }

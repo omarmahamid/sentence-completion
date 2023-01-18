@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class RetrievalAlgorithmTest {
+package com.sentence;
+
+public class RetrievalAlgorithmTest{
 }

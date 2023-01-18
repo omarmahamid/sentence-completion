@@ -1,2 +1,7 @@
-package com.sentence;public class Sentence {
+package com.sentence;
+
+public class Sentence{
+
+    
+
 }

@@ -1,2 +1,7 @@
-package com.sentence;public interface IRetrievalAlgorithm {
+package com.sentence;
+
+public interface IRetrievalAlgorithm{
+
+    Sentence retrieve();
+
 }
